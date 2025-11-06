@@ -1,0 +1,70 @@
+{
+  "profile": {
+    "name": "Pranita Paudel",
+    "headline": {
+      "greeting": "Hello,",
+      "intro": "I’m Pranita!"
+    },
+    "bio": "A Bachelor's student in Computer Applications with a strong foundation in programming and web development. I’m adaptable, quick to learn, and eager to gain practical experience in Python development, web technologies, and related fields.",
+    "image": "src/assets/images/profile.png",
+    "birthdate": "16th June, 2004",
+    "nationality": "Nepalese"
+  },
+  "contact": {
+    "location": "Hetauda, Nepal"
+  },
+  "education": [
+    {
+      "year": "Aug 2019 – Jul 2021",
+      "school": "Hetauda School of Management and Social Sciences",
+      "degree": "+2 in Commerce",
+      "details": "Graduated with GPA 3.84. Completed coursework in Computer Science and Mathematics, providing a strong foundation for analytical and technical skills."
+    },
+    {
+      "year": "Dec 2021 – Present",
+      "school": "Hetauda School of Management and Social Sciences (Tribhuvan University)",
+      "degree": "Bachelor in Computer Application (BCA)",
+      "details": "Maintaining a GPA of 3.50 (current average). Active member of the IT Club, involved in collaborative tech initiatives and events. Completed coursework in C, Java, DotNet, OOP, web technologies, database systems, and DSA."
+    }
+  ],
+  "experience": [
+    {
+      "year": "June 2025 – August 2025",
+      "role": "Frontend Developer Intern",
+      "description": "Developed and optimized user interfaces with React, Tailwind CSS, and JavaScript. Implemented responsive designs, fixed UI bugs, integrated APIs, and collaborated with the backend team. Gained experience in frontend workflows and Git.",
+      "skills": [
+        "React",
+        "Tailwind CSS",
+        "JavaScript",
+        "Git",
+        "API Integration"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "To-do List Website",
+      "description": "Multiuser to-do list application built with Django and simple HTML/CSS.",
+      "tech": ["Django", "HTML", "CSS"],
+      "image": "src/assets/images/todoproject.png"
+    },
+    {
+      "title": "Blogging Website",
+      "description": "Simple blogging platform developed during a college hackathon using Django.",
+      "tech": ["Django", "HTML", "CSS"],
+      "image": "src/assets/images/blogproject.png"
+    },
+    {
+      "title": "Ecommerce Project",
+      "description": "An ecommerce website built with React, Node and MySQL.",
+      "tech": ["React", "JavaScript", "CSS"],
+      "image": "src/assets/images/ecommerceProject.png"
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "JavaScript", "Java"],
+    "frameworks": ["Django", "React"],
+    "databases": ["MySQL", "MongoDB"],
+    "tools": ["Git", "GitHub"]
+  }
+}
