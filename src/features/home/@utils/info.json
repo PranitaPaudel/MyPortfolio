@@ -6,7 +6,7 @@
       "intro": "I’m Pranita!"
     },
     "bio": "A Bachelor's student in Computer Applications with a strong foundation in programming and web development. I’m adaptable, quick to learn, and eager to gain practical experience in Python development, web technologies, and related fields.",
-    "image": "/MyPortfolio/images/profile.png",
+    "image": "/images/profile.png",
     "birthdate": "16th June, 2004",
     "nationality": "Nepalese"
   },
@@ -46,19 +46,19 @@
       "title": "To-do List Website",
       "description": "Multiuser to-do list application built with Django and simple HTML/CSS.",
       "tech": ["Django", "HTML", "CSS"],
-      "image": "/MyPortfolio/images/todoproject.png"
+      "image": "/images/todoproject.png"
     },
     {
       "title": "Blogging Website",
       "description": "Simple blogging platform developed during a college hackathon using Django.",
       "tech": ["Django", "HTML", "CSS"],
-      "image": "/MyPortfolio/images/blogproject.png"
+      "image": "/images/blogproject.png"
     },
     {
       "title": "Ecommerce Project",
       "description": "An ecommerce website built with React, Node and MySQL.",
       "tech": ["React", "JavaScript", "CSS"],
-      "image": "/MyPortfolio/images/ecommerceProject.png"
+      "image": "/images/ecommerceProject.png"
     }
   ],
   "skills": {
